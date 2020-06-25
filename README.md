@@ -20,10 +20,22 @@ Generator (G) |  Discriminator (D)
 <p>ESRGAN framework</p>
 </div>
 
->2D decaying tubulence Problem:
+>**2D decaying tubulence Problem:**
 <div align="center">
-<img src="2dturb.png" width="70%">
+<img src="2dturb.png" width="50%">
 </div>
+
+>**Reuslts:**
+<div align="center">
+<img src="si.pdf" width="70%">
+<p>ESRGAN framework</p>
+</div>
+
+<div align="center">
+<img src="omega.pdf" width="70%">
+<p>ESRGAN framework</p>
+</div>
+
 
 
 
