@@ -16,5 +16,5 @@ Generator |  Discriminator
 
 **ESRGAN framework**:
 
-<img src="gan.png" width="90%">
+<img src="gan.png" width="70%">
 
