@@ -8,7 +8,8 @@ adversarial networks (GAN) to determine the deconvolved flow field instead of us
 low-resolution LES field to super-resolution (close to DNS) field. The resulting super-resolved field can then be utilized to compute the SGS closure model instead of solving AD procedure numerically. In this work, ESRGAN framework is tested to super resolve two-dimensional decaying homogeneous turbulence flow field with physics bases constraints. The reconstruction of turbulent small scales by the proposed framework is evaluated by comparing to energy spectra on both super resolved and DNS field.
 
 
-**Enhanced Super Resolution Generative Adversarial Networks (ESRGAN):**                                                                             
+**Enhanced Super Resolution Generative Adversarial Networks (ESRGAN):**  
+
 Generator |  Discriminator
 ------------ | -------------
-<img src="gen1.png" width="80%">| <img src="disc1.png" width="80%" >
+<img src="gen1.png" width="90%">| <img src="disc1.png" width="90%" >
