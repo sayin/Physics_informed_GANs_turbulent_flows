@@ -13,3 +13,8 @@ low-resolution LES field to super-resolution (close to DNS) field. The resulting
 Generator |  Discriminator
 ----- | -----
 <img src="gen1.png" width="90%">| <img src="disc1.png" width="90%" >
+
+**ESRGAN framework**:
+
+<img src="gan.png" width="90%">
+
