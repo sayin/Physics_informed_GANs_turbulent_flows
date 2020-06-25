@@ -17,7 +17,7 @@ Generator (G) |  Discriminator (D)
 :
 <div align="center">
 <img src="gan.png" width="70%">
-<p>**ESRGAN framework**</p>
+<p>ESRGAN framework</p>
 </div>
 
 
