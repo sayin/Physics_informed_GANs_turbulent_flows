@@ -38,7 +38,7 @@ Generator (G) |  Discriminator (D)
 
 
 <div align="center">
-<img src="en-1.png" width="50%">
+<img src="en-1.png" width="40%">
 <p>Energy Spectrum</p>
 </div>
 
