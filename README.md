@@ -32,8 +32,8 @@ Generator (G) |  Discriminator (D)
 </div>
 
 <div align="center">
-<img src="omega-1.pngf" width="70%">
-<p>Vorticity feidl super resolution</p>
+<img src="omega-1.png" width="70%">
+<p>Vorticity feild super resolution</p>
 </div>
 
 
