@@ -1,0 +1,14 @@
+32		!NXC=NYC, resolution
+4000	!NT, number of time step
+4.0e3	!Re, Reynolds number 
+1.0e-3	!dt; time step
+800	!nf;number of files to store
+2	!isolver:[1]ikeda, [2]arakawa
+1	!isc; [0]don't write-screen, [1]write-screen
+19	!ich; Check for the file
+3	!ipr; [1]TGV, [2]VM, [3]Decay 
+32	!NXC=NYC, coarse resolution
+0	!ichkp; [0]t=0, [1]checkpoint
+350	!istart; last saved file (starting point)
+256		!NXF=NYF, resolution
+3		!k0, turbulence peak
