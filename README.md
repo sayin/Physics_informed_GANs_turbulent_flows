@@ -27,13 +27,13 @@ Generator (G) |  Discriminator (D)
 
 >**Reuslts:**
 <div align="center">
-<img src="si.pdf" width="70%">
-<p>ESRGAN framework</p>
+<img src="si-1.png" width="70%">
+<p>Stream funtion super resolution</p>
 </div>
 
 <div align="center">
-<img src="omega.pdf" width="70%">
-<p>ESRGAN framework</p>
+<img src="omega-1.pngf" width="70%">
+<p>Vorticity feidl super resolution</p>
 </div>
 
 
