@@ -27,15 +27,18 @@ Generator (G) |  Discriminator (D)
 
 >**Reuslts:**
 <div align="center">
-<img src="si-1.png" width="70%">
+<img src="si-1.png" width="90%">
 <p>Stream funtion super resolution</p>
 </div>
 
 <div align="center">
-<img src="omega-1.png" width="70%">
+<img src="omega-1.png" width="90%">
 <p>Vorticity feild super resolution</p>
 </div>
 
 
-
+<div align="center">
+<img src="en-1.png" width="90%">
+<p>Energy Spectrum</p>
+</div>
 
