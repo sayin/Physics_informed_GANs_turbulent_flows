@@ -42,3 +42,8 @@ Generator (G) |  Discriminator (D)
 <p>Energy Spectrum</p>
 </div>
 
+References:
+##Please find the report in the repository for more detailed analysis##
+
+>Future Work:
+#Stabilize the trained GAN model in place of Approximate Deconvolution (AND) structural turbulence model in the solver
