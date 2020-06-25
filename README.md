@@ -11,5 +11,5 @@ low-resolution LES field to super-resolution (close to DNS) field. The resulting
 **Enhanced Super Resolution Generative Adversarial Networks (ESRGAN):**  
 
 Generator |  Discriminator
------------- | -------------
+----- | -----
 <img src="gen1.png" width="90%">| <img src="disc1.png" width="90%" >
